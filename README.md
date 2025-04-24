@@ -2,7 +2,7 @@
 
 Dataset utilizado: *(em avaliação)*
 <br>
-**Autores:** Pedro B. de Quadros e Lucas Fernando Assunção Cavaliere
+**Autores:** Pedro B. de Quadros e Lucas Fernando Assunção Cavalherie
 
 ## Como utilizar o ambiente
 
