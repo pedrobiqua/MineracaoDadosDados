@@ -1,10 +1,7 @@
-Claro! Aqui está o texto ajustado, direto ao ponto:
-
----
-
 # Trabalho de Mineração de Dados
 
 Dataset utilizado: *(em avaliação)*
+<br>
 **Autores:** Pedro B. de Quadros e Lucas Fernando Assunção Cavaliere
 
 ## Como utilizar o ambiente
