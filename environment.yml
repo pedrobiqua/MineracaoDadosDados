@@ -1,0 +1,10 @@
+name: .conda
+channels:
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - python
+  - matplotlib
+  - scikit-learn
+  - pandas
+prefix: /opt/conda/envs/.conda
